@@ -1,5 +1,5 @@
 Algoritmo pseudocodigoEjercicio11
-	definir numD Como Real
+	definir numD, num12, numP,num,promedioPares Como Real
 	numDoce=0;
 	numMayor=0;
 	Para i=1 hasta 10 Hacer
@@ -22,8 +22,6 @@ Algoritmo pseudocodigoEjercicio11
 			FinSi
 			
 		FinSi
-		
-		
 	FinPara
 	promedioPares=numP/nP;
 	Escribir "La cantidad de numeros impares es ",nI;
